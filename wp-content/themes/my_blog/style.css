@@ -173,3 +173,35 @@ div.info-box p{
 	cursor: default;
 	border-bottom: 1px solid #DDD;
 }
+
+/* Post Styles*/
+
+.post h2{
+	margin-bottom:  0;
+}
+p.post-info{
+	font-size: 87%;
+	color: #999;
+}
+p.post-info a :link,
+p.post-info a:visited{
+	color: #999;
+}
+
+/* Images Style*/
+
+img{
+	max-width: 100%;
+	height:auto;
+}
+
+.has-thumbnail{
+	position: relative;
+	padding-left: 200px;
+
+}
+.post-thumbnail{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
