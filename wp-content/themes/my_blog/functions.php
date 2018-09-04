@@ -67,5 +67,6 @@ register_nav_menus(array(
 
 }
 
-
 add_action('after_setup_theme','learningWordPress_setup');
+
+

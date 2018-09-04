@@ -2,6 +2,10 @@
 
 /*
 Plugin Name: dupe_cop
+Plugin URI: http://snopytricks.com
+Description: This is my first wordpress plugin
+Author: Anil Rawat
+Version: 1.0
 */
 
 
