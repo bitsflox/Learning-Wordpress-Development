@@ -30,11 +30,13 @@ if(have_posts()) :
 
 	<h2><?php the_title();?></h2>	
 	<?php the_content();?>
+	<?php comments_template(); ?>
 </article>
 <?php endwhile;
 	else :
 
 		echo '<p>No content found</p>';
+
 
 	endif;
 
